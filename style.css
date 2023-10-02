@@ -1,6 +1,6 @@
 body {
     font-family: Arial,Helvetic,sans-serif;
-    background-color: #444444;
+    background-color: black;
     color: #dddddd;
     margin: 10% 15%;
     padding: 0;
@@ -35,6 +35,7 @@ section h3 {
 section p {
     margin: 10px 0;
 }
+
 .job {
     margin-bottom: 30px;
 }
